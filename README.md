@@ -23,4 +23,4 @@ sh runshow.sh
 
 
 ## Acknowledgments
-The code implementation is mainly modified based on the [MBPO](https://github.com/JannerM/mbpo) and [AMPO]https://github.com/RockySJ/ampo codebase.
+The code implementation is mainly modified based on the [MBPO](https://github.com/JannerM/mbpo) and [AMPO](https://github.com/RockySJ/ampo codebase).
