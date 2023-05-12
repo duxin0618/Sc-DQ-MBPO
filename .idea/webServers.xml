@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f738443c-d637-44bc-94ab-c23c0555b3e2" name="cslg171">
+        <fileTransfer accessType="SFTP" host="10.18.57.171" port="22" sshConfigId="e1c65d2e-f991-48b5-9cc8-c5ae3020c61e" sshConfig="dx@10.18.57.171:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6055a527-c5a5-4c29-8b07-6ba01076b6eb" name="cslg172">
+        <fileTransfer accessType="SFTP" host="10.18.57.172" port="22" sshConfigId="4271838a-947a-46e2-b5df-47cd06867a0b" sshConfig="user7@10.18.57.172:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" connections="6" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+        <option name="numberOfConnections" value="6" />
+      </webServer>
+    </option>
+  </component>
+</project>
